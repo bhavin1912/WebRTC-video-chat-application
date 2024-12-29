@@ -50,7 +50,7 @@ Follow these steps to run the application locally:
 1. Clone the repository:
     ```bash
     git clone https://github.com/bhavin1912/WebRTC-video-chat-application.git
-    cd webrtc-app
+    cd WebRTC-video-chat-application
     ```
 
 2. Install dependencies:
